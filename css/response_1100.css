@@ -1,0 +1,1 @@
+@media (max-width: 1100px){    header .wrap_top{        justify-content: space-around;    }    header .wrap_top .menu{        width: 100%;        min-width: 51%;        max-width: 500px;        margin: 10px 0 30px;        order: 1;    }    .profile .content{        padding-left: 25px;    }}
