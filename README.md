@@ -9,9 +9,9 @@ A responsive, cross-browser front-end layout for a PUBG community website where 
 - **Promo code / Balance:** https://khandohii.github.io/cases-pubg/gain.html
 - **Trades / Exchange:** https://khandohii.github.io/cases-pubg/change.html
 - **Case opening (UI):** https://khandohii.github.io/cases-pubg/open.html
-- **Case opening (alt. layout):** https://khandohii.github.io/cases-pubg/oppen.html
+- **Case opening (alt. layout):** https://khandohii.github.io/cases-pubg/open_alt.html
 - **User profile:** https://khandohii.github.io/cases-pubg/profile.html
-- **User profile (alt. layout):** https://khandohii.github.io/cases-pubg/profile_ozer.html
+- **User profile (alt. layout):** https://khandohii.github.io/cases-pubg/profile_alt.html
 
 ## 🚀 What I Built
 - **Responsive, cross-browser layout** (mobile/desktop) with consistent typography and spacing.
